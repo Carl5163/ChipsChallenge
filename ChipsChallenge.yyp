@@ -1,5 +1,18 @@
 {
   "resources": [
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},"order":2,},
+    {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":6,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":4,},
+    {"id":{"name":"spr_ui","path":"sprites/spr_ui/spr_ui.yy",},"order":1,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_chip_door","path":"sprites/spr_chip_door/spr_chip_door.yy",},"order":7,},
+    {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":3,},
+    {"id":{"name":"snd_music1","path":"sounds/snd_music1/snd_music1.yy",},"order":0,},
+    {"id":{"name":"snd_music2","path":"sounds/snd_music2/snd_music2.yy",},"order":1,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_key_door","path":"sprites/spr_key_door/spr_key_door.yy",},"order":5,},
+    {"id":{"name":"spr_chip","path":"sprites/spr_chip/spr_chip.yy",},"order":8,},
+    {"id":{"name":"obj_ui","path":"objects/obj_ui/obj_ui.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
